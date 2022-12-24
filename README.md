@@ -6,7 +6,7 @@ How to push java code to Github.
 
 ![image](https://user-images.githubusercontent.com/70056650/209423666-4df57b77-d5a8-438e-b9b6-41f1aa730caa.png)
 
-2.There is a team selection in project context menu from where we can our project to index and commit.
+2.There is a team selection in project context menu from where we can push our project to index and commit.
 
 3.Put commit msg and push.
 
